@@ -1,5 +1,6 @@
-# Sammamish
+# Sammamish 
 
-Controlled [Tim](Tim.md). 
+Controlled [[Tim]]. 
 
 Made of lava, but there are paths made of obsidian.
+

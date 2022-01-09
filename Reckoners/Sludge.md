@@ -1,6 +1,6 @@
 # Sludge (male)
+- **Power:** Toxic Waste 
+- **Weakness:** Clean water. 
 
-* **Power:** Toxic Waste 
-* **Weakness:** Clean water. 
 
-\#Epic
+#Epic

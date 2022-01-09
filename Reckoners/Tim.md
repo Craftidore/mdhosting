@@ -6,6 +6,6 @@ Lava epic.
 
 Allergic to peanut butter. This is his weakness.
 
-Was given control of [Sammamish](Sammamish.md) 
+Was given control of [[Sammamish]] 
 
-\#Epic 
+#Epic 

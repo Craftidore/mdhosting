@@ -1,0 +1,19 @@
+{
+  "baseFontSize": 22,
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "WOTC Themed ITS",
+    "GD ITS Theme Fix",
+    "GenesysDice",
+    "WOTC RedBar hr",
+    "9.ITS.All Alternate Themes",
+    "9.ITS.WOTC RedBar hr",
+    "9.ITS.Encoded Icons",
+    "1.GenesysDice",
+    "0.Wrap Code Block",
+    "9.ITS.Bigger Slideshow",
+    "reveal"
+  ]
+}

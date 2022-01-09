@@ -1,7 +1,12 @@
+---
+
+excalidraw-plugin: parsed
+
+---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== ^465707
 
-# Text Elements
 
+# Text Elements
 A ^6zKaL59D
 
 B ^uouKyGt2
@@ -9,10 +14,8 @@ B ^uouKyGt2
 C ^jcKGTJC7
 
 %%
-
 # Drawing
-
-````json
+```json
 {
 	"type": "excalidraw",
 	"version": 2,
@@ -4335,6 +4338,5 @@ C ^jcKGTJC7
 	},
 	"files": {}
 }
-````
-
+```
 %%

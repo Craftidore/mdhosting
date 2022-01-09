@@ -1,0 +1,9 @@
+{
+  "sidebarCommands": [],
+  "hiddenCommands": [
+    "Insert template",
+    "Open command palette",
+    "Open graph view",
+    "Open quick switcher"
+  ]
+}

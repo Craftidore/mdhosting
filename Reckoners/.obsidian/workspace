@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "eaf4431f7d07b91f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c192218dcf16999d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Genesys Reference.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5356452f9b1eb089",
+    "type": "split",
+    "children": [
+      {
+        "id": "86a141b654be0b78",
+        "type": "tabs",
+        "dimension": 25.773195876288653,
+        "children": [
+          {
+            "id": "ed726bcbed66c489",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5dd5948a668e27cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2781851164a03805",
+        "type": "tabs",
+        "dimension": 74.22680412371135,
+        "children": [
+          {
+            "id": "622114d510640d3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250
+  },
+  "right": {
+    "id": "b160b7c40b02d35d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f6fc090450ba412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dc9961c0ad26369",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Genesys Reference.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9999999999999998,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "416aa66473671321",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Genesys Reference.md"
+              }
+            }
+          },
+          {
+            "id": "6eaac48f7db40e7b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "58d25c11fe728b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90a4b7f6cfdff118",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Genesys Reference.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "299ecc669d3ab8eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Genesys Reference.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209
+  },
+  "active": "c192218dcf16999d",
+  "lastOpenFiles": [
+    "Genesys Reference.md",
+    "Untitled.md",
+    "District of Vontrol.md",
+    "Encore.md",
+    "Sludge.md",
+    "Queen Grav.md",
+    "Sushi.md",
+    "New Bellevue.md",
+    "Sammamish.md",
+    "Tim.md"
+  ]
+}

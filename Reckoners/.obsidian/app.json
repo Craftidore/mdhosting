@@ -1,0 +1,19 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "00-09 Meta/02 Source/02.01 Source",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "RPG Zettel/Inbox",
+  "showUnsupportedFiles": true,
+  "lineWrap": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

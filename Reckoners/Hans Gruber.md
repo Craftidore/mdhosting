@@ -1,6 +1,5 @@
 # Hans Gruber
-
-Brother of [Bear](Charlie%20Gruber.md). Russian.
+Brother of [[Charlie Gruber|Bear]]. Russian.
 
 ## Sans-Rifle Personality
 
@@ -8,22 +7,19 @@ High willpower and Presence
 
 **Weapon:** small pistol
 **Talents:**
-
-* Clever Retort
-* Scathing Tirade + Inspiring Rhetoric
-* Proper Upbringing
-* Tumble
-* Field Commander
+- Clever Retort
+- Scathing Tirade + Inspiring Rhetoric
+- Proper Upbringing
+- Tumble
+- Field Commander
 
 ## Rifle Personality
-
 High agility and cunning. Low Presence
 
 **Weapon:** a rifle
 **Talents:** 
-
-* Quick Draw
-* Knack For It
-* Fan the Hammer
-* Lucky Strike
-* Eagle Eyes
+- Quick Draw
+- Knack For It
+- Fan the Hammer
+- Lucky Strike
+- Eagle Eyes
