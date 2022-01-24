@@ -44,6 +44,7 @@ Oral Comm: Debate:
 - Electives & Career: Typing: 1
 - Social Studies: History (Story of the World - Modern): 1
 - English: Writing 6: 1
+
 Fine Arts: Drawing:
 - Fine Arts: Drawing: 14
 - Social Studies(7-8)/Fine Arts(HS)/Elective(6): Mythology: 4
@@ -88,6 +89,7 @@ Fine Arts: Drawing:
 - Fine Arts: Upcycling: 1
 - Fine Arts: Art History: 1
 - Electives & Career: American Sign Language II: 1
+
 Electives & Career: American Sign Language I:
 - Electives & Career: American Sign Language I: 14
 - Fine Arts: Photography: 5
@@ -131,6 +133,7 @@ Electives & Career: American Sign Language I:
 - Math: Pre-Algebra: 1
 - Science 6: Earth Science: 1
 - Fine Arts: Music Appreciation: 1
+
 Electives & Career: Typing:
 - Electives & Career: Typing: 14
 - English: Writing for Struggling Writers: 6

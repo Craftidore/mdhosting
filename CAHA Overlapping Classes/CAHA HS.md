@@ -26,6 +26,7 @@ Science I: Biology:
 - Electives & Career: Typing: 1
 - Science II (choose 1): Chemistry: 1
 - Electives & Career: American Sign Language II: 1
+
 English: Writing for Struggling Writers:
 - English: Writing for Struggling Writers: 7
 - Fine Arts: Drawing: 3
@@ -53,6 +54,7 @@ English: Writing for Struggling Writers:
 - Electives & Career: Coding: 1
 - Electives & Career: Psychology: 1
 - Electives & Career: Spanish I: 1
+
 PE:
 - PE: 7
 - Science I: Biology: 3
@@ -84,6 +86,7 @@ PE:
 - Electives & Career: Engineering Design: 1
 - Fine Arts: Art History: 1
 - Electives & Career: Introduction to Business (Accounting, Marketing, etc): 1
+
 Fine Arts: Drawing:
 - Fine Arts: Drawing: 7
 - Science I: Biology: 3
@@ -114,6 +117,7 @@ Fine Arts: Drawing:
 - Oral Comm: Speech: 1
 - Social Studies: Civics and Economics: 1
 - Math: Pre-Algebra: 1
+
 Oral Comm: Speech:
 - Oral Comm: Speech: 7
 - Social Studies: Civics and Economics: 3

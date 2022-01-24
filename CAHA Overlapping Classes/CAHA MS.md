@@ -33,6 +33,7 @@ Oral Comm: Debate:
 - English: Writing for Struggling Writers: 1
 - Social Studies: History (Story of the World - Modern): 1
 - English: Writing 6: 1
+
 Electives & Career: Typing:
 - Electives & Career: Typing: 9
 - English: Writing for Struggling Writers: 4
@@ -64,6 +65,7 @@ Electives & Career: Typing:
 - Languages: Conversational French: 1
 - English: Writing 6: 1
 - Electives: Science of Cooking: 1
+
 Science 7: Life Science:
 - Science 7: Life Science: 8
 - Social Studies: Arkansas History: 7
@@ -87,6 +89,7 @@ Science 7: Life Science:
 - Fine Arts: Survey of Visual Arts (drawing/painting/sculpting/etc)): 1
 - Math: Algebra I: 1
 - Electives: Board Games: 1
+
 Social Studies: Arkansas History:
 - Social Studies: Arkansas History: 8
 - Science 7: Life Science: 7
@@ -108,6 +111,7 @@ Social Studies: Arkansas History:
 - Electives: Foundations of Engineering: 1
 - Fine Arts: Yearbook: 1
 - Fine Arts: Survey of Visual Arts (drawing/painting/sculpting/etc)): 1
+
 Electives & Career: American Sign Language I:
 - Electives & Career: American Sign Language I: 8
 - Electives & Career: Typing: 3
@@ -138,6 +142,7 @@ Electives & Career: American Sign Language I:
 - Science 6: Earth Science: 1
 - Fine Arts: Music Appreciation: 1
 - Fine Arts: Upcycling: 1
+
 Electives: Robotics:
 - Electives: Robotics: 8
 - Oral Comm: Debate: 5
