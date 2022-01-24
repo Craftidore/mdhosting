@@ -1,0 +1,177 @@
+Oral Comm: Debate:
+- Oral Comm: Debate: 18
+- Electives & Career: American Sign Language II: 5
+- Fine Arts: Graphic Design: 5
+- Electives & Career: American Sign Language I: 5
+- Electives: Robotics: 5
+- Fine Arts: Photography: 4
+- Language: Conversational Spanish: 4
+- Social Studies(7-8)/Fine Arts(HS)/Elective(6): Mythology: 4
+- Electives: Foundations of Engineering: 4
+- Math: Geometry: 3
+- Electives & Career: Psychology: 3
+- English: Writing for Struggling Writers: 3
+- English: Comp I (9-11): 3
+- PE: 3
+- Science: Biology: 3
+- Fine Arts: Music Appreciation: 3
+- Math: Pre-Algebra: 3
+- Electives: Science of Cooking: 3
+- Science: Anatomy and Physiology: 2
+- Science: Physical Science: 2
+- Social Studies: US History: 2
+- Electives & Career: Microsoft Office Foundations: 2
+- Fine Arts: Drawing: 2
+- Fine Arts: Upcycling: 2
+- Electives & Career: Life Skills: 2
+- English: Writing 8: 2
+- Math: Algebra I: 2
+- Science 7: Life Science: 2
+- Science 6: Earth Science: 2
+- Social Studies: Civics and Economics: 1
+- Science: Physics: 1
+- Fine Arts: Survey of Visual Arts (drawing/painting/sculpting/etc)): 1
+- Fine Arts: Science Fiction in Various Media: 1
+- Electives & Career: Spanish I: 1
+- Electives & Career: Coding: 1
+- English: Creative Writing: 1
+- Social Studies/ Electives & Career: Geography/World Geography: 1
+- Social Studies/Electives & Career: World Religions: 1
+- Fine Arts: Art History: 1
+- Social Studies: Arkansas History: 1
+- English: Writing 7: 1
+- Electives: Board Games: 1
+- Electives & Career: Typing: 1
+- Social Studies: History (Story of the World - Modern): 1
+- English: Writing 6: 1
+Fine Arts: Drawing:
+- Fine Arts: Drawing: 14
+- Social Studies(7-8)/Fine Arts(HS)/Elective(6): Mythology: 4
+- Electives & Career: Typing: 4
+- PE: 3
+- Science: Biology: 3
+- Electives & Career: Spanish I: 3
+- Electives & Career: American Sign Language I: 3
+- Fine Arts: Painting: 3
+- English: Writing for Struggling Writers: 3
+- Science 7: Life Science: 3
+- Social Studies: Arkansas History: 3
+- English: Writing 7: 3
+- Math: Algebra I: 2
+- Science: Physical Science: 2
+- Electives & Career: Teaching Assistant/Practicum: 2
+- Electives & Career: Coding: 2
+- Oral Comm: Debate: 2
+- Math: Pre-Algebra: 2
+- Electives: Robotics: 2
+- Social Studies/ Electives & Career: Geography/World Geography: 2
+- English: Writing 8: 2
+- Language: Conversational Spanish: 2
+- English: Creative Writing: 2
+- Electives: Science of Cooking: 2
+- Social Studies: US History: 1
+- English: Comp II (10-12): 1
+- Math: Algebra II: 1
+- English: Comp I (9-11): 1
+- Fine Arts: Photography: 1
+- Fine Arts: Yearbook: 1
+- Electives & Career: Microsoft Office Foundations: 1
+- Fine Arts: Survey of Visual Arts (drawing/painting/sculpting/etc)): 1
+- Science: Chemistry: 1
+- Electives & Career: Great Battles: 1
+- Electives & Career: Engineering Design: 1
+- Electives & Career: Psychology: 1
+- Oral Comm: Speech: 1
+- Social Studies: Civics and Economics: 1
+- Science: Agricultural Science: 1
+- Social Studies/Electives & Career: World Religions: 1
+- Fine Arts: Upcycling: 1
+- Fine Arts: Art History: 1
+- Electives & Career: American Sign Language II: 1
+Electives & Career: American Sign Language I:
+- Electives & Career: American Sign Language I: 14
+- Fine Arts: Photography: 5
+- Oral Comm: Debate: 5
+- English: Comp I (9-11): 4
+- Fine Arts: Drawing: 3
+- PE: 3
+- Fine Arts: Painting: 3
+- Math: Geometry: 3
+- Social Studies/Electives & Career: World Religions: 3
+- Electives & Career: Typing: 3
+- Science: Agricultural Science: 2
+- Science: Physical Science: 2
+- Social Studies(7-8)/Fine Arts(HS)/Elective(6): Mythology: 2
+- Fine Arts: Upcycling: 2
+- Electives & Career: American Sign Language II: 2
+- Electives & Career: Microsoft Office Foundations: 2
+- Science: Biology: 2
+- Social Studies/ Electives & Career: Geography/World Geography: 2
+- Science 7: Life Science: 2
+- Social Studies: Arkansas History: 2
+- English: Writing 7: 2
+- English: Writing 6: 2
+- Electives: Science of Cooking: 2
+- Electives & Career: Teaching Assistant/Practicum: 1
+- Fine Arts: Yearbook: 1
+- Electives & Career: Childhood Development: 1
+- Math: Algebra I: 1
+- Oral Comm: Speech: 1
+- Math: Data Science (Computer Science Flex): 1
+- Social Studies: US History: 1
+- Fine Arts: Graphic Design: 1
+- Electives & Career: Coding: 1
+- Electives & Career: Psychology: 1
+- English: Writing for Struggling Writers: 1
+- Electives & Career: Life Skills: 1
+- Electives: Robotics: 1
+- English: Writing 8: 1
+- Social Studies: History (Story of the World - Modern): 1
+- Language: Conversational Spanish: 1
+- Math: Pre-Algebra: 1
+- Science 6: Earth Science: 1
+- Fine Arts: Music Appreciation: 1
+Electives & Career: Typing:
+- Electives & Career: Typing: 14
+- English: Writing for Struggling Writers: 6
+- Fine Arts: Drawing: 4
+- PE: 3
+- Fine Arts: Photography: 3
+- Electives & Career: Life Skills: 3
+- Electives & Career: American Sign Language I: 3
+- Fine Arts: Painting: 3
+- Social Studies: History (Story of the World - Modern): 3
+- Math: Data Science (Computer Science Flex): 2
+- Electives & Career: ACT Prep: 2
+- Fine Arts: Graphic Design: 2
+- Electives & Career: Microsoft Office Foundations: 2
+- Math: Pre-Algebra: 2
+- Social Studies(7-8)/Fine Arts(HS)/Elective(6): Mythology: 2
+- Science: Physical Science: 2
+- Science 7: Life Science: 2
+- Social Studies: Arkansas History: 2
+- English: Writing 7: 2
+- English: Creative Writing: 2
+- Science 6: Earth Science: 2
+- Social Studies: World History: 1
+- Electives & Career: Teaching Assistant/Practicum: 1
+- Fine Arts: Science Fiction in Various Media: 1
+- Science: Agricultural Science: 1
+- Electives & Career: American Sign Language II: 1
+- Electives & Career: Career Readiness: 1
+- Fine Arts: Survey of Visual Arts (drawing/painting/sculpting/etc)): 1
+- Electives & Career: Coding: 1
+- Science: Biology: 1
+- Oral Comm: Speech: 1
+- Social Studies: Civics and Economics: 1
+- Electives: Robotics: 1
+- Social Studies/ Electives & Career: Geography/World Geography: 1
+- English: Writing 8: 1
+- Social Studies/Electives & Career: World Religions: 1
+- Fine Arts: Yearbook: 1
+- Fine Arts: Upcycling: 1
+- Fine Arts: Art History: 1
+- Oral Comm: Debate: 1
+- Languages: Conversational French: 1
+- English: Writing 6: 1
+- Electives: Science of Cooking: 1
